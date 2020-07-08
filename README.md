@@ -4,11 +4,12 @@ Unbeatable Tic Tac Toe
 Language : C++
 
 Concepts Used:
-1 Inheritance
-2 Virtual Functions
-3 Runtime polymprophism
-4 Object Oriented Programming
+1 Inheritance </br>
+2 Virtual Functions </br>
+3 Runtime polymprophism </br>
+4 Object Oriented Programming </br>
 5 MiniMax Algorithm for decision making 
+</br>
 
 ![Test Image 1](GAME1.png)
 
@@ -19,9 +20,11 @@ Tic-tac-toe (also known as noughts and crosses or Xs and Os) is a paper-and-penc
 
 Minimax is a recursive algorithm which is used to choose an optimal move for a player assuming that the opponent is also playing optimally. As its name suggests, its goal is to minimize the maximum loss (minimize the worst case scenario).
 
+Diagram explaining MiniMax algorithm
+
 ![Test Image 3](GAME4.png)
 
-Diagram explaining MiniMax algorithm
+Final Result : 
 
 ![Test Image 4](GAME3.png)
 
